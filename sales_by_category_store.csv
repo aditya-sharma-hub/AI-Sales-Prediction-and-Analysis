@@ -1,0 +1,60 @@
+Product_Category,Store_type,Location,sales
+Beverages,Grocery,Bangalore,543
+Beverages,Grocery,Chennai,1572
+Beverages,Grocery,Delhi,250
+Beverages,Grocery,Kolkata,272
+Beverages,Grocery,Mumbai,1099
+Beverages,Online,Bangalore,971
+Beverages,Online,Chennai,1729
+Beverages,Online,Delhi,1440
+Beverages,Online,Kolkata,1191
+Beverages,Supermarket,Bangalore,531
+Beverages,Supermarket,Chennai,905
+Beverages,Supermarket,Delhi,215
+Beverages,Supermarket,Kolkata,318
+Beverages,Supermarket,Mumbai,692
+Electronics,Grocery,Bangalore,6771
+Electronics,Grocery,Kolkata,2418
+Electronics,Online,Bangalore,1518
+Electronics,Online,Chennai,1162
+Electronics,Online,Delhi,81
+Electronics,Online,Mumbai,1122
+Electronics,Supermarket,Chennai,3533
+Electronics,Supermarket,Delhi,513
+Electronics,Supermarket,Kolkata,1453
+Electronics,Supermarket,Mumbai,927
+Household,Grocery,Bangalore,2035
+Household,Grocery,Chennai,1912
+Household,Grocery,Delhi,4739
+Household,Grocery,Kolkata,1169
+Household,Grocery,Mumbai,1559
+Household,Online,Bangalore,1128
+Household,Online,Chennai,1032
+Household,Online,Delhi,944
+Household,Online,Kolkata,447
+Household,Online,Mumbai,458
+Household,Supermarket,Bangalore,326
+Household,Supermarket,Kolkata,1021
+Personal Care,Grocery,Bangalore,101
+Personal Care,Grocery,Chennai,577
+Personal Care,Grocery,Delhi,181
+Personal Care,Grocery,Kolkata,186
+Personal Care,Grocery,Mumbai,1905
+Personal Care,Online,Bangalore,2453
+Personal Care,Online,Chennai,1040
+Personal Care,Online,Delhi,1147
+Personal Care,Online,Kolkata,1037
+Personal Care,Online,Mumbai,723
+Personal Care,Supermarket,Bangalore,898
+Personal Care,Supermarket,Chennai,590
+Personal Care,Supermarket,Delhi,1866
+Personal Care,Supermarket,Kolkata,671
+Snacks,Grocery,Chennai,1502
+Snacks,Grocery,Delhi,1474
+Snacks,Online,Bangalore,1623
+Snacks,Online,Chennai,1115
+Snacks,Supermarket,Bangalore,140
+Snacks,Supermarket,Chennai,1633
+Snacks,Supermarket,Delhi,832
+Snacks,Supermarket,Kolkata,1225
+Snacks,Supermarket,Mumbai,556
