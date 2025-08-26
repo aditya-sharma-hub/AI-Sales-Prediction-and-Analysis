@@ -1,0 +1,123 @@
+Product_ID,Product_Category,Units_sold,Price_per_unit,sales,Location,Store_type,Date,Campaign_Type,revenue,Latitude,Longitude
+P001,Household,12,85.21,1023,Delhi,Grocery,2025-04-01,Email Marketing,87169.82999999999,28.6139,77.209
+P002,Snacks,5,23.74,119,Mumbai,Supermarket,2025-04-02,nan,2825.06,19.076,72.8777
+P003,Electronics,10,116.24,1162,Chennai,Online,2025-04-03,Email Marketing,135070.88,13.0827,80.2707
+P004,Beverages,3,29.77,89,Kolkata,Grocery,2025-04-04,nan,2649.5299999999997,22.5726,88.3639
+P005,Personal Care,15,46.04,691,Bangalore,Online,2025-04-05,nan,31813.64,12.9716,77.5946
+P006,Household,4,75.46,302,Kolkata,Online,2025-04-06,nan,22788.92,22.5726,88.3639
+P007,Electronics,6,74.86,449,Mumbai,Supermarket,2025-04-07,nan,33612.14,19.076,72.8777
+P008,Snacks,14,61.79,865,Delhi,Grocery,2025-04-08,nan,53448.35,28.6139,77.209
+P009,Electronics,9,109.92,989,Chennai,Supermarket,2025-04-09,Social Media,108710.88,13.0827,80.2707
+P010,Beverages,17,43.73,743,Delhi,Online,2025-04-10,nan,32491.39,28.6139,77.209
+P011,Personal Care,11,39.31,432,Mumbai,Grocery,2025-04-11,Email Marketing,16981.920000000002,19.076,72.8777
+P012,Snacks,11,27.05,298,Chennai,Online,2025-04-12,Social Media,8060.900000000001,13.0827,80.2707
+P013,Household,20,95.58,1912,Chennai,Grocery,2025-04-13,nan,182748.96,13.0827,80.2707
+P014,Personal Care,16,49.73,796,Mumbai,Grocery,2025-04-14,nan,39585.079999999994,19.076,72.8777
+P015,Snacks,4,35.03,140,Bangalore,Supermarket,2025-04-15,Social Media,4904.2,12.9716,77.5946
+P016,Household,5,31.34,157,Mumbai,Grocery,2025-04-16,Email Marketing,4920.38,19.076,72.8777
+P017,Personal Care,19,58.12,1104,Bangalore,Online,2025-04-17,Email Marketing,64164.479999999996,12.9716,77.5946
+P018,Personal Care,12,48.09,577,Chennai,Grocery,2025-04-18,nan,27747.93,13.0827,80.2707
+P019,Beverages,15,35.43,531,Bangalore,Supermarket,2025-04-19,Email Marketing,18813.329999999998,12.9716,77.5946
+P020,Snacks,12,58.49,702,Chennai,Supermarket,2025-04-20,nan,41059.98,13.0827,80.2707
+P021,Electronics,20,98.1,1962,Bangalore,Grocery,2025-04-21,Social Media,192472.19999999998,12.9716,77.5946
+P022,Personal Care,19,20.7,393,Bangalore,Online,2025-04-22,nan,8135.099999999999,12.9716,77.5946
+P023,Household,6,43.8,263,Bangalore,Supermarket,2025-04-23,nan,11519.4,12.9716,77.5946
+P024,Household,14,98.22,1375,Delhi,Grocery,2025-04-24,Email Marketing,135052.5,28.6139,77.209
+P025,Personal Care,8,57.74,462,Mumbai,Online,2025-04-25,Social Media,26675.88,19.076,72.8777
+P026,Electronics,13,50.85,661,Mumbai,Online,2025-04-26,nan,33611.85,19.076,72.8777
+P027,Household,2,72.47,145,Kolkata,Online,2025-04-27,nan,10508.15,22.5726,88.3639
+P028,Electronics,14,109.95,1539,Bangalore,Grocery,2025-04-28,nan,169213.05000000002,12.9716,77.5946
+P029,Snacks,4,59.07,236,Delhi,Supermarket,2025-04-29,Email Marketing,13940.52,28.6139,77.209
+P030,Household,6,30.24,181,Bangalore,Grocery,2025-04-30,Email Marketing,5473.44,12.9716,77.5946
+P031,Electronics,14,76.78,1075,Bangalore,Grocery,2025-05-01,Email Marketing,82538.5,12.9716,77.5946
+P032,Personal Care,8,57.28,458,Mumbai,Grocery,2025-05-02,Social Media,26234.24,19.076,72.8777
+P033,Personal Care,5,37.42,187,Bangalore,Online,2025-05-03,Email Marketing,6997.54,12.9716,77.5946
+P034,Beverages,5,79.56,398,Delhi,Online,2025-05-04,Email Marketing,31664.88,28.6139,77.209
+P035,Beverages,14,38.77,543,Bangalore,Grocery,2025-05-05,Social Media,21052.11,12.9716,77.5946
+P036,Electronics,14,114.3,1600,Kolkata,Grocery,2025-05-06,Social Media,182880.0,22.5726,88.3639
+P037,Snacks,6,47.58,285,Chennai,Online,2025-05-07,Social Media,13560.3,13.0827,80.2707
+P038,Personal Care,14,38.92,545,Kolkata,Supermarket,2025-05-08,Social Media,21211.4,22.5726,88.3639
+P039,Beverages,9,38.79,349,Bangalore,Online,2025-05-09,Social Media,13537.71,12.9716,77.5946
+P040,Beverages,7,22.81,160,Kolkata,Supermarket,2025-05-10,Email Marketing,3649.6,22.5726,88.3639
+P041,Snacks,17,59.85,1017,Kolkata,Supermarket,2025-05-11,Social Media,60867.450000000004,22.5726,88.3639
+P042,Beverages,17,54.96,934,Kolkata,Online,2025-05-12,Social Media,51332.64,22.5726,88.3639
+P043,Electronics,4,119.57,478,Mumbai,Supermarket,2025-05-13,Social Media,57154.46,19.076,72.8777
+P044,Beverages,20,75.44,1509,Chennai,Online,2025-05-14,Email Marketing,113838.95999999999,13.0827,80.2707
+P045,Household,18,53.77,968,Bangalore,Online,2025-05-15,Social Media,52049.36,12.9716,77.5946
+P046,Snacks,19,38.27,727,Chennai,Grocery,2025-05-16,Email Marketing,27822.29,13.0827,80.2707
+P047,Snacks,18,33.81,609,Delhi,Grocery,2025-05-17,Social Media,20590.29,28.6139,77.209
+P048,Electronics,9,69.24,623,Chennai,Supermarket,2025-05-18,Social Media,43136.52,13.0827,80.2707
+P049,Snacks,8,44.99,360,Delhi,Supermarket,2025-05-19,Email Marketing,16196.400000000001,28.6139,77.209
+P050,Snacks,4,29.92,120,Mumbai,Supermarket,2025-05-20,nan,3590.4,19.076,72.8777
+P051,Personal Care,2,50.65,101,Bangalore,Grocery,2025-05-21,Email Marketing,5115.65,12.9716,77.5946
+P052,Personal Care,9,20.08,181,Delhi,Grocery,2025-05-22,Social Media,3634.4799999999996,28.6139,77.209
+P053,Electronics,5,92.2,461,Mumbai,Online,2025-05-23,Email Marketing,42504.200000000004,19.076,72.8777
+P054,Personal Care,1,55.01,55,Delhi,Supermarket,2025-05-24,Email Marketing,3025.5499999999997,28.6139,77.209
+P055,Beverages,14,64.66,905,Chennai,Supermarket,2025-05-25,Email Marketing,58517.299999999996,13.0827,80.2707
+P056,Household,6,75.16,451,Kolkata,Grocery,2025-05-26,Email Marketing,33897.159999999996,22.5726,88.3639
+P057,Personal Care,14,18.66,261,Mumbai,Online,2025-05-27,nan,4870.26,19.076,72.8777
+P058,Personal Care,12,57.53,690,Chennai,Online,2025-05-28,nan,39695.700000000004,13.0827,80.2707
+P059,Household,1,78.18,78,Bangalore,Online,2025-05-29,Social Media,6098.040000000001,12.9716,77.5946
+P060,Personal Care,7,26.57,186,Kolkata,Grocery,2025-05-30,Social Media,4942.02,22.5726,88.3639
+P061,Snacks,20,46.53,931,Chennai,Supermarket,2025-05-31,nan,43319.43,13.0827,80.2707
+P062,Electronics,20,75.92,1518,Bangalore,Online,2025-06-01,nan,115246.56,12.9716,77.5946
+P063,Household,13,35.21,458,Mumbai,Online,2025-06-02,nan,16126.18,19.076,72.8777
+P064,Beverages,20,14.94,299,Delhi,Online,2025-06-03,Social Media,4467.0599999999995,28.6139,77.209
+P065,Beverages,17,51.28,872,Mumbai,Grocery,2025-06-04,Email Marketing,44716.16,19.076,72.8777
+P066,Beverages,20,25.1,502,Mumbai,Supermarket,2025-06-05,Social Media,12600.2,19.076,72.8777
+P067,Personal Care,10,38.02,380,Chennai,Supermarket,2025-06-06,nan,14447.6,13.0827,80.2707
+P068,Household,6,97.53,585,Bangalore,Grocery,2025-06-07,nan,57055.05,12.9716,77.5946
+P069,Electronics,1,81.26,81,Delhi,Online,2025-06-08,Social Media,6582.06,28.6139,77.209
+P070,Household,3,44.73,134,Chennai,Online,2025-06-09,Social Media,5993.82,13.0827,80.2707
+P071,Household,14,85.13,1192,Delhi,Grocery,2025-06-10,Social Media,101474.95999999999,28.6139,77.209
+P072,Electronics,8,74.05,592,Bangalore,Grocery,2025-06-11,nan,43837.6,12.9716,77.5946
+P073,Beverages,6,35.81,215,Delhi,Supermarket,2025-06-12,Social Media,7699.150000000001,28.6139,77.209
+P074,Snacks,9,62.29,561,Bangalore,Online,2025-06-13,nan,34944.69,12.9716,77.5946
+P075,Electronics,6,85.44,513,Delhi,Supermarket,2025-06-14,nan,43830.72,28.6139,77.209
+P076,Household,12,85.1,1021,Kolkata,Supermarket,2025-06-15,Social Media,86887.09999999999,22.5726,88.3639
+P077,Household,1,62.6,63,Bangalore,Supermarket,2025-06-16,Email Marketing,3943.8,12.9716,77.5946
+P078,Personal Care,18,15.07,271,Kolkata,Online,2025-06-17,Social Media,4083.9700000000003,22.5726,88.3639
+P079,Beverages,4,42.81,171,Chennai,Grocery,2025-06-18,nan,7320.51,13.0827,80.2707
+P080,Personal Care,15,51.08,766,Kolkata,Online,2025-06-19,Social Media,39127.28,22.5726,88.3639
+P081,Personal Care,16,51.51,824,Delhi,Online,2025-06-20,nan,42444.24,28.6139,77.209
+P082,Electronics,12,68.15,818,Kolkata,Grocery,2025-06-21,Social Media,55746.700000000004,22.5726,88.3639
+P083,Personal Care,19,47.25,898,Bangalore,Supermarket,2025-06-22,Email Marketing,42430.5,12.9716,77.5946
+P084,Personal Care,11,60.31,663,Delhi,Supermarket,2025-06-23,Email Marketing,39985.53,28.6139,77.209
+P085,Electronics,9,59.78,538,Kolkata,Supermarket,2025-06-24,Social Media,32161.64,22.5726,88.3639
+P086,Personal Care,1,41.41,41,Kolkata,Supermarket,2025-06-25,Email Marketing,1697.81,22.5726,88.3639
+P087,Personal Care,9,24.38,219,Mumbai,Grocery,2025-06-26,nan,5339.219999999999,19.076,72.8777
+P088,Snacks,14,37.98,532,Chennai,Online,2025-06-27,nan,20205.359999999997,13.0827,80.2707
+P089,Household,8,89.71,718,Kolkata,Grocery,2025-06-28,Email Marketing,64411.78,22.5726,88.3639
+P090,Personal Care,7,50.04,350,Chennai,Online,2025-06-29,Social Media,17514.0,13.0827,80.2707
+P091,Beverages,1,21.16,21,Mumbai,Grocery,2025-06-30,Social Media,444.36,19.076,72.8777
+P092,Electronics,14,120.34,1685,Chennai,Supermarket,2025-07-01,Social Media,202772.9,13.0827,80.2707
+P093,Snacks,8,39.6,317,Mumbai,Supermarket,2025-07-02,Email Marketing,12553.2,19.076,72.8777
+P094,Snacks,18,59.02,1062,Bangalore,Online,2025-07-03,Email Marketing,62679.240000000005,12.9716,77.5946
+P095,Beverages,5,51.47,257,Kolkata,Online,2025-07-04,Social Media,13227.789999999999,22.5726,88.3639
+P096,Household,11,40.87,450,Mumbai,Grocery,2025-07-05,Social Media,18391.5,19.076,72.8777
+P097,Beverages,4,43.0,172,Chennai,Online,2025-07-06,nan,7396.0,13.0827,80.2707
+P098,Household,17,74.65,1269,Bangalore,Grocery,2025-07-07,nan,94730.85,12.9716,77.5946
+P099,Snacks,7,33.68,236,Delhi,Supermarket,2025-07-08,nan,7948.48,28.6139,77.209
+P100,Personal Care,2,42.5,85,Kolkata,Supermarket,2025-07-09,Email Marketing,3612.5,22.5726,88.3639
+P101,Beverages,19,73.72,1401,Chennai,Grocery,2025-07-10,Social Media,103281.72,13.0827,80.2707
+P102,Personal Care,9,23.34,210,Chennai,Supermarket,2025-07-11,nan,4901.4,13.0827,80.2707
+P103,Household,13,73.22,952,Mumbai,Grocery,2025-07-12,Social Media,69705.44,19.076,72.8777
+P104,Beverages,7,35.78,250,Delhi,Grocery,2025-07-13,nan,8945.0,28.6139,77.209
+P105,Electronics,14,114.53,1603,Bangalore,Grocery,2025-07-14,nan,183591.59,12.9716,77.5946
+P106,Beverages,4,12.12,48,Chennai,Online,2025-07-15,Social Media,581.76,13.0827,80.2707
+P107,Beverages,6,30.52,183,Kolkata,Grocery,2025-07-16,nan,5585.16,22.5726,88.3639
+P108,Household,1,81.89,82,Bangalore,Online,2025-07-17,Social Media,6714.9800000000005,12.9716,77.5946
+P109,Snacks,10,20.78,208,Kolkata,Supermarket,2025-07-18,Email Marketing,4322.24,22.5726,88.3639
+P110,Household,14,67.45,944,Delhi,Online,2025-07-19,Social Media,63672.8,28.6139,77.209
+P111,Beverages,3,68.58,206,Mumbai,Grocery,2025-07-20,Email Marketing,14127.48,19.076,72.8777
+P112,Beverages,5,31.55,158,Kolkata,Supermarket,2025-07-21,Email Marketing,4984.900000000001,22.5726,88.3639
+P113,Beverages,19,32.72,622,Bangalore,Online,2025-07-22,nan,20351.84,12.9716,77.5946
+P114,Household,12,74.84,898,Chennai,Online,2025-07-23,nan,67206.32,13.0827,80.2707
+P115,Personal Care,19,60.41,1148,Delhi,Supermarket,2025-07-24,Social Media,69350.68,28.6139,77.209
+P116,Electronics,4,58.95,236,Chennai,Supermarket,2025-07-25,nan,13912.2,13.0827,80.2707
+P117,Personal Care,11,29.37,323,Delhi,Online,2025-07-26,Social Media,9486.51,28.6139,77.209
+P118,Electronics,9,101.65,915,Kolkata,Supermarket,2025-07-27,Social Media,93009.75,22.5726,88.3639
+P119,Snacks,20,38.74,775,Chennai,Grocery,2025-07-28,Social Media,30023.5,13.0827,80.2707
+P120,Household,14,82.1,1149,Delhi,Grocery,2025-07-29,nan,94332.9,28.6139,77.209
+P121,Personal Care,4,19.53,78,Bangalore,Online,2025-07-30,Email Marketing,1523.3400000000001,12.9716,77.5946
+P122,Beverages,12,15.81,190,Mumbai,Supermarket,2025-07-31,None,3003.9,19.076,72.8777

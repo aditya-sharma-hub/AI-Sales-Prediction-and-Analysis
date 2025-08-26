@@ -1,0 +1,123 @@
+Product_Category,Store_type,Location,sales,Date,revenue
+Household,Grocery,Delhi,1023,2025-04-01,87169.82999999999
+Snacks,Supermarket,Mumbai,119,2025-04-02,2825.06
+Electronics,Online,Chennai,1162,2025-04-03,135070.88
+Beverages,Grocery,Kolkata,89,2025-04-04,2649.5299999999997
+Personal Care,Online,Bangalore,691,2025-04-05,31813.64
+Household,Online,Kolkata,302,2025-04-06,22788.92
+Electronics,Supermarket,Mumbai,449,2025-04-07,33612.14
+Snacks,Grocery,Delhi,865,2025-04-08,53448.35
+Electronics,Supermarket,Chennai,989,2025-04-09,108710.88
+Beverages,Online,Delhi,743,2025-04-10,32491.39
+Personal Care,Grocery,Mumbai,432,2025-04-11,16981.920000000002
+Snacks,Online,Chennai,298,2025-04-12,8060.900000000001
+Household,Grocery,Chennai,1912,2025-04-13,182748.96
+Personal Care,Grocery,Mumbai,796,2025-04-14,39585.079999999994
+Snacks,Supermarket,Bangalore,140,2025-04-15,4904.2
+Household,Grocery,Mumbai,157,2025-04-16,4920.38
+Personal Care,Online,Bangalore,1104,2025-04-17,64164.479999999996
+Personal Care,Grocery,Chennai,577,2025-04-18,27747.93
+Beverages,Supermarket,Bangalore,531,2025-04-19,18813.329999999998
+Snacks,Supermarket,Chennai,702,2025-04-20,41059.98
+Electronics,Grocery,Bangalore,1962,2025-04-21,192472.19999999998
+Personal Care,Online,Bangalore,393,2025-04-22,8135.099999999999
+Household,Supermarket,Bangalore,263,2025-04-23,11519.4
+Household,Grocery,Delhi,1375,2025-04-24,135052.5
+Personal Care,Online,Mumbai,462,2025-04-25,26675.88
+Electronics,Online,Mumbai,661,2025-04-26,33611.85
+Household,Online,Kolkata,145,2025-04-27,10508.15
+Electronics,Grocery,Bangalore,1539,2025-04-28,169213.05000000002
+Snacks,Supermarket,Delhi,236,2025-04-29,13940.52
+Household,Grocery,Bangalore,181,2025-04-30,5473.44
+Electronics,Grocery,Bangalore,1075,2025-05-01,82538.5
+Personal Care,Grocery,Mumbai,458,2025-05-02,26234.24
+Personal Care,Online,Bangalore,187,2025-05-03,6997.54
+Beverages,Online,Delhi,398,2025-05-04,31664.88
+Beverages,Grocery,Bangalore,543,2025-05-05,21052.11
+Electronics,Grocery,Kolkata,1600,2025-05-06,182880.0
+Snacks,Online,Chennai,285,2025-05-07,13560.3
+Personal Care,Supermarket,Kolkata,545,2025-05-08,21211.4
+Beverages,Online,Bangalore,349,2025-05-09,13537.71
+Beverages,Supermarket,Kolkata,160,2025-05-10,3649.6
+Snacks,Supermarket,Kolkata,1017,2025-05-11,60867.450000000004
+Beverages,Online,Kolkata,934,2025-05-12,51332.64
+Electronics,Supermarket,Mumbai,478,2025-05-13,57154.46
+Beverages,Online,Chennai,1509,2025-05-14,113838.95999999999
+Household,Online,Bangalore,968,2025-05-15,52049.36
+Snacks,Grocery,Chennai,727,2025-05-16,27822.29
+Snacks,Grocery,Delhi,609,2025-05-17,20590.29
+Electronics,Supermarket,Chennai,623,2025-05-18,43136.52
+Snacks,Supermarket,Delhi,360,2025-05-19,16196.400000000001
+Snacks,Supermarket,Mumbai,120,2025-05-20,3590.4
+Personal Care,Grocery,Bangalore,101,2025-05-21,5115.65
+Personal Care,Grocery,Delhi,181,2025-05-22,3634.4799999999996
+Electronics,Online,Mumbai,461,2025-05-23,42504.200000000004
+Personal Care,Supermarket,Delhi,55,2025-05-24,3025.5499999999997
+Beverages,Supermarket,Chennai,905,2025-05-25,58517.299999999996
+Household,Grocery,Kolkata,451,2025-05-26,33897.159999999996
+Personal Care,Online,Mumbai,261,2025-05-27,4870.26
+Personal Care,Online,Chennai,690,2025-05-28,39695.700000000004
+Household,Online,Bangalore,78,2025-05-29,6098.040000000001
+Personal Care,Grocery,Kolkata,186,2025-05-30,4942.02
+Snacks,Supermarket,Chennai,931,2025-05-31,43319.43
+Electronics,Online,Bangalore,1518,2025-06-01,115246.56
+Household,Online,Mumbai,458,2025-06-02,16126.18
+Beverages,Online,Delhi,299,2025-06-03,4467.0599999999995
+Beverages,Grocery,Mumbai,872,2025-06-04,44716.16
+Beverages,Supermarket,Mumbai,502,2025-06-05,12600.2
+Personal Care,Supermarket,Chennai,380,2025-06-06,14447.6
+Household,Grocery,Bangalore,585,2025-06-07,57055.05
+Electronics,Online,Delhi,81,2025-06-08,6582.06
+Household,Online,Chennai,134,2025-06-09,5993.82
+Household,Grocery,Delhi,1192,2025-06-10,101474.95999999999
+Electronics,Grocery,Bangalore,592,2025-06-11,43837.6
+Beverages,Supermarket,Delhi,215,2025-06-12,7699.150000000001
+Snacks,Online,Bangalore,561,2025-06-13,34944.69
+Electronics,Supermarket,Delhi,513,2025-06-14,43830.72
+Household,Supermarket,Kolkata,1021,2025-06-15,86887.09999999999
+Household,Supermarket,Bangalore,63,2025-06-16,3943.8
+Personal Care,Online,Kolkata,271,2025-06-17,4083.9700000000003
+Beverages,Grocery,Chennai,171,2025-06-18,7320.51
+Personal Care,Online,Kolkata,766,2025-06-19,39127.28
+Personal Care,Online,Delhi,824,2025-06-20,42444.24
+Electronics,Grocery,Kolkata,818,2025-06-21,55746.700000000004
+Personal Care,Supermarket,Bangalore,898,2025-06-22,42430.5
+Personal Care,Supermarket,Delhi,663,2025-06-23,39985.53
+Electronics,Supermarket,Kolkata,538,2025-06-24,32161.64
+Personal Care,Supermarket,Kolkata,41,2025-06-25,1697.81
+Personal Care,Grocery,Mumbai,219,2025-06-26,5339.219999999999
+Snacks,Online,Chennai,532,2025-06-27,20205.359999999997
+Household,Grocery,Kolkata,718,2025-06-28,64411.78
+Personal Care,Online,Chennai,350,2025-06-29,17514.0
+Beverages,Grocery,Mumbai,21,2025-06-30,444.36
+Electronics,Supermarket,Chennai,1685,2025-07-01,202772.9
+Snacks,Supermarket,Mumbai,317,2025-07-02,12553.2
+Snacks,Online,Bangalore,1062,2025-07-03,62679.240000000005
+Beverages,Online,Kolkata,257,2025-07-04,13227.789999999999
+Household,Grocery,Mumbai,450,2025-07-05,18391.5
+Beverages,Online,Chennai,172,2025-07-06,7396.0
+Household,Grocery,Bangalore,1269,2025-07-07,94730.85
+Snacks,Supermarket,Delhi,236,2025-07-08,7948.48
+Personal Care,Supermarket,Kolkata,85,2025-07-09,3612.5
+Beverages,Grocery,Chennai,1401,2025-07-10,103281.72
+Personal Care,Supermarket,Chennai,210,2025-07-11,4901.4
+Household,Grocery,Mumbai,952,2025-07-12,69705.44
+Beverages,Grocery,Delhi,250,2025-07-13,8945.0
+Electronics,Grocery,Bangalore,1603,2025-07-14,183591.59
+Beverages,Online,Chennai,48,2025-07-15,581.76
+Beverages,Grocery,Kolkata,183,2025-07-16,5585.16
+Household,Online,Bangalore,82,2025-07-17,6714.9800000000005
+Snacks,Supermarket,Kolkata,208,2025-07-18,4322.24
+Household,Online,Delhi,944,2025-07-19,63672.8
+Beverages,Grocery,Mumbai,206,2025-07-20,14127.48
+Beverages,Supermarket,Kolkata,158,2025-07-21,4984.900000000001
+Beverages,Online,Bangalore,622,2025-07-22,20351.84
+Household,Online,Chennai,898,2025-07-23,67206.32
+Personal Care,Supermarket,Delhi,1148,2025-07-24,69350.68
+Electronics,Supermarket,Chennai,236,2025-07-25,13912.2
+Personal Care,Online,Delhi,323,2025-07-26,9486.51
+Electronics,Supermarket,Kolkata,915,2025-07-27,93009.75
+Snacks,Grocery,Chennai,775,2025-07-28,30023.5
+Household,Grocery,Delhi,1149,2025-07-29,94332.9
+Personal Care,Online,Bangalore,78,2025-07-30,1523.3400000000001
+Beverages,Supermarket,Mumbai,190,2025-07-31,3003.9
